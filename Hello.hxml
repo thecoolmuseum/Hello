@@ -1,0 +1,4 @@
+#Javascript
+-main Hello
+-cp src
+-js jsbin/Hello.js

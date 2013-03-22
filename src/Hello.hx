@@ -1,6 +1,6 @@
 class Hello
 {
-	function new(){
+	public static function main(){
 		trace("Hello GitHub");
 	}
 }
